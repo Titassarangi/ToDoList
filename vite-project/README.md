@@ -1,8 +1,2 @@
-# React + Vite
+A modern To-Do list application developed with Vite and JavaScript. This project features a clean, responsive UI where users can add, edit, and delete tasks. It incorporates state management for task handling and utilizes local storage to persist data across sessions. The application is built with the latest web development tools and practices, showcasing a smooth user experience and efficient task management.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
