@@ -1,0 +1,1 @@
+ A simple yet functional To-Do list application developed in Java. This project provides users with a straightforward interface to manage and organize their tasks. Features include adding, editing, and deleting tasks, with data persistence ensured through file storage. Ideal for practicing Java fundamentals and UI design.
